@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GetDadosSensoresAPI</name>
+    </assembly>
+    <members>
+        <member name="M:GetDadosSensoresAPI.Controllers.SensoresController.GetDadosSensorPresenca(System.Int32)">
+            <summary>
+            Obtém os Dados do Sensor de Presença
+            </summary>
+            <param name="time">Tempo de monitoramento em segundos</param>
+            <returns>bool</returns>
+        </member>
+        <member name="M:GetDadosSensoresAPI.Controllers.SensoresController.GetDadosSensorChuva">
+            <summary>
+            Obtém os dados do Sensor de Chuva
+            </summary>
+            <returns>SensorChuva</returns>
+        </member>
+        <member name="M:GetDadosSensoresAPI.Controllers.SensoresController.GetDadosSensorTemperaturaUmidade">
+            <summary>
+            Obtém dados do sensor de Temperatura e Umidade (Não implementado)
+            </summary>
+            <returns>SensorTemperaturaUmidade</returns>
+        </member>
+    </members>
+</doc>

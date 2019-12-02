@@ -1,0 +1,9 @@
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache

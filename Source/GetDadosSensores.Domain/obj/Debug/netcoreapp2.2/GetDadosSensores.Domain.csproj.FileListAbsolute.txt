@@ -1,0 +1,9 @@
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\bin\Debug\netcoreapp2.2\GetDadosSensores.Domain.deps.json
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\bin\Debug\netcoreapp2.2\GetDadosSensores.Domain.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\bin\Debug\netcoreapp2.2\GetDadosSensores.Domain.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\obj\Debug\netcoreapp2.2\GetDadosSensores.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\obj\Debug\netcoreapp2.2\GetDadosSensores.Domain.AssemblyInfoInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\obj\Debug\netcoreapp2.2\GetDadosSensores.Domain.AssemblyInfo.cs
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\obj\Debug\netcoreapp2.2\GetDadosSensores.Domain.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\obj\Debug\netcoreapp2.2\GetDadosSensores.Domain.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Domain\obj\Debug\netcoreapp2.2\GetDadosSensores.Domain.csprojAssemblyReference.cache

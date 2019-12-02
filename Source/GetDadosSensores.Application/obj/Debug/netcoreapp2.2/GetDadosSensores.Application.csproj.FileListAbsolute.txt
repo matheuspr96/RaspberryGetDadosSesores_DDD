@@ -1,0 +1,12 @@
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\bin\Debug\netcoreapp2.2\GetDadosSensores.Application.deps.json
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\bin\Debug\netcoreapp2.2\GetDadosSensores.Application.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\bin\Debug\netcoreapp2.2\GetDadosSensores.Application.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\bin\Debug\netcoreapp2.2\GetDadosSensores.Domain.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\bin\Debug\netcoreapp2.2\GetDadosSensores.Domain.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\obj\Debug\netcoreapp2.2\GetDadosSensores.Application.csprojAssemblyReference.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\obj\Debug\netcoreapp2.2\GetDadosSensores.Application.csproj.CoreCompileInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\obj\Debug\netcoreapp2.2\GetDadosSensores.Application.AssemblyInfoInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\obj\Debug\netcoreapp2.2\GetDadosSensores.Application.AssemblyInfo.cs
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\obj\Debug\netcoreapp2.2\GetDadosSensores.Application.csproj.CopyComplete
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\obj\Debug\netcoreapp2.2\GetDadosSensores.Application.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Application\obj\Debug\netcoreapp2.2\GetDadosSensores.Application.pdb

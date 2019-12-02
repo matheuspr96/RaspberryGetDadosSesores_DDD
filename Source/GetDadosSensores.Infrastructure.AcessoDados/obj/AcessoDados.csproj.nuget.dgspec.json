@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.AcessoDados\\AcessoDados.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Domain\\GetDadosSensores.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Domain\\GetDadosSensores.Domain.csproj",
+        "projectName": "GetDadosSensores.Domain",
+        "projectPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Domain\\GetDadosSensores.Domain.csproj",
+        "packagesPath": "C:\\Users\\mreis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mreis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.7, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.AcessoDados\\AcessoDados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.AcessoDados\\AcessoDados.csproj",
+        "projectName": "AcessoDados",
+        "projectPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.AcessoDados\\AcessoDados.csproj",
+        "packagesPath": "C:\\Users\\mreis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.AcessoDados\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mreis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Domain\\GetDadosSensores.Domain.csproj": {
+                "projectPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Domain\\GetDadosSensores.Domain.csproj"
+              },
+              "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.CrossCutting\\CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.7, )",
+              "autoReferenced": true
+            },
+            "System.Device.Gpio": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Unosquare.Raspberry.IO": {
+              "target": "Package",
+              "version": "[0.27.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.CrossCutting\\CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.CrossCutting\\CrossCutting.csproj",
+        "projectName": "CrossCutting",
+        "projectPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\mreis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mreis\\Desktop\\GetDadosSensoresAPI\\Source\\GetDadosSensores.Infrastructure.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mreis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.7, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

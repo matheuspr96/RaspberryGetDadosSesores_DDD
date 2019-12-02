@@ -1,0 +1,14 @@
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\bin\Debug\netcoreapp2.2\AcessoDados.deps.json
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\bin\Debug\netcoreapp2.2\AcessoDados.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\bin\Debug\netcoreapp2.2\AcessoDados.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\bin\Debug\netcoreapp2.2\GetDadosSensores.Domain.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\bin\Debug\netcoreapp2.2\GetDadosSensores.Domain.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\obj\Debug\netcoreapp2.2\AcessoDados.csprojAssemblyReference.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\obj\Debug\netcoreapp2.2\AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\obj\Debug\netcoreapp2.2\AcessoDados.AssemblyInfoInputs.cache
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\obj\Debug\netcoreapp2.2\AcessoDados.AssemblyInfo.cs
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\obj\Debug\netcoreapp2.2\AcessoDados.csproj.CopyComplete
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\obj\Debug\netcoreapp2.2\AcessoDados.dll
+C:\Users\mreis\Desktop\GetDadosSensoresAPI\Source\GetDadosSensores.Infrastructure.AcessoDados\obj\Debug\netcoreapp2.2\AcessoDados.pdb
